@@ -7,7 +7,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <>
-    <Greeting title="Hola FlipG" name="Bonn"/>
+    <Greeting title="Hola FlipGamer" name="Bonn"/>
     <UserCard
       name="Mari"
       amount={3000}
